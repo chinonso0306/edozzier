@@ -1,0 +1,48 @@
+
+.main{
+    background-color: rgb(215, 242, 252);
+    height: 100vh;
+    margin-top: 0px;
+}
+
+.first-top-one{
+    margin-top: 13%;
+    margin-left: 7%;
+}
+
+.first-top-button1{
+    background-color: rgb(165, 216, 237);
+    border: none ;
+    height: 4vh;
+    width: 20%;
+
+}
+
+.first-top-h1-1{
+    font-size: 50px;
+}
+.first-top-h1-2{
+    font-size: 55px;
+    
+}
+
+.first-top-button2{
+    background-color: wheat;
+    border: none ;
+    height: 6vh;
+    width: 13%;
+    border-radius: 4px;
+
+
+}
+
+.first-top-button3{
+    background-color:darkblue;
+    border: none ;
+    height: 6vh;
+    width: 13%;
+    color: white;
+    margin-left: 3px;
+    border-radius: 4px;
+
+}
